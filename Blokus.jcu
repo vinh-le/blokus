@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Blokus</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Blokus</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Blokus.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>..\Final Project\Game Project Resources\Tic Tac Toe\Nameable.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\Final Project\Game Project Resources\Tic Tac Toe\Piece.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\Final Project\Game Project Resources\Tic Tac Toe\PieceDisplay.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\Final Project\Game Project Resources\Tic Tac Toe\PieceTester.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\Final Project\Game Project Resources\Tic Tac Toe\TicTacToe.java</path>
+			<source>true</source>
+			<index>5</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\Final Project\Game Project Resources\Tic Tac Toe\TicTacToeBoard.java</path>
+			<source>true</source>
+			<index>6</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\Final Project\Game Project Resources\Tic Tac Toe\TicTacToeRunner.java</path>
+			<source>true</source>
+			<index>7</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
